@@ -104,7 +104,7 @@ ai-interview-assistant/
 
 ## 🚀 Demo
 **Live App:** [[https://your-ai-interview-assistant-demo-link.com](https://ai-interview-assistant-15.onrender.com/interview)](#)  
-**GitHub:** [https://github.com/Guna1610/ai-interview-assistant](https://github.com/Guna1610/ai-interview-assistant)
+**GitHub:** [[https://github.com/guptapalash20/ai-interview-assistant.git](https://github.com/guptapalash20/ai-interview-assistant.git)]
 
 ---
 
@@ -119,7 +119,7 @@ ai-interview-assistant/
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/Guna1610/ai-interview-assistant.git
+git clone https://github.com/guptapalash20/ai-interview-assistant.git
 cd ai-interview-assistant
 ```
 
@@ -192,7 +192,7 @@ node server.js
 
 ## 🚀 Demo
 **Live App:** [https://your-ai-interview-assistant-demo-link.com](#)  
-**GitHub:** [https://github.com/Guna1610/ai-interview-assistant](https://github.com/Guna1610/ai-interview-assistant)
+**GitHub:** [https://github.com/guptapalash20/ai-interview-assistant.git](https://github.com/guptapalash20/ai-interview-assistant.git)
 
 ---
 
